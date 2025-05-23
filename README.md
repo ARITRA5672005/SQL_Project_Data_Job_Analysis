@@ -37,7 +37,7 @@ LIMIT 10;
 ```
 This SQL query retrieves the top 10 highest-paying remote Data Scientist jobs from a database. It joins job postings with company information, filters for jobs with a known average yearly salary, a location of "Anywhere" (indicating remote work), and a short job title of "Data Scientist". The results are ordered by salary in descending order, showing the best-paying positions first.
 ## Result 
-![Top Paying Data Scientist Jobs](./Results/top_paying_jobs.png)
+![Top Paying Data Scientist Jobs](/Project_sql/Results/top_paying_jobs.png)
 
 The chart above displays the top 10 highest-paying remote Data Scientist jobs, highlighting both the companies and salary ranges. It reveals that remote roles can offer highly competitive salaries, with certain companies leading the market in compensation for data professionals. This insight can help job seekers target organizations that value and reward data science expertise.
 
